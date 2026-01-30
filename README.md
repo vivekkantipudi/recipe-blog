@@ -24,7 +24,7 @@ The application is fully containerized and designed to run with a single command
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Framework:** Next.js 14 (Pages Router)
 * **Styling:** Tailwind CSS
@@ -35,7 +35,7 @@ The application is fully containerized and designed to run with a single command
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 recipe-blog/
