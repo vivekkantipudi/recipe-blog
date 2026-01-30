@@ -1,0 +1,12 @@
+{
+  "search_placeholder": "Search recipes...",
+  "featured_recipes": "Featured Recipes",
+  "all_recipes": "All Recipes",
+  "all_categories": "All Categories",
+  "ingredients": "Ingredients",
+  "instructions": "Instructions",
+  "newsletter_title": "Subscribe to our Newsletter",
+  "newsletter_success": "Thanks for subscribing!",
+  "newsletter_error": "Invalid email address",
+  "subscribe": "Subscribe"
+}
