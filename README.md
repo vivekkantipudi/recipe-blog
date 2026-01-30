@@ -1,14 +1,14 @@
-# 🥘 Multi-Language Recipe Blog
+# Recipe Blog
 
 A high-performance, containerized recipe blog built with **Next.js**, **Tailwind CSS**, and **Docker**. This project demonstrates modern web development practices including Internationalization (i18n), Static Site Generation (SSG), Image Optimization, and a flexible CMS integration layer.
 
-## 🚀 Quick Start (Docker)
+## Quick Start (Docker)
 
 The application is fully containerized and designed to run with a single command.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/recipe-blog.git](https://github.com/YOUR_USERNAME/recipe-blog.git)
+    git clone [https://github.com/vivekkantipudi/recipe-blog.git]
     cd recipe-blog
     ```
 
